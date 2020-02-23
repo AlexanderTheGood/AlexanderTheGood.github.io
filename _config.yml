@@ -1,11 +1,11 @@
 # Site settings
 author: Alexander Haynes
-title: 
+title: Coding for Consideration
 header-img: img/home-bg.png
 email: alexhay7@gmail.com
 copyright_name: Alexander Haynes
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CapsLocked
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AlexanderTheGood
